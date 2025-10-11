@@ -15,7 +15,7 @@ Forked from https://github.com/notthebee/AutoASPM to keep using the python versi
 ### Usage
 
 ```bash
-sudo autoaspm.py
+sudo python autoaspm.py
 ```
 
 ### Credits
